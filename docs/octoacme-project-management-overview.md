@@ -19,6 +19,8 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- See [Roles & Personas](octoacme-roles-and-personas.md) for full role definitions including Scrum Master, Business Analyst, UX Designer, and Technical Lead.
+- See [Role Interactions & Accountability Guide](octoacme-role-interactions.md) for a RACI-lite breakdown of who is Responsible, Accountable, Consulted, and Informed across common project activities.
 
 ## Key Artifacts
 - Project Charter / One-pager
